@@ -1,2 +1,3 @@
-# Hello-World
-a peak into some of my works
+Hello You,
+
+i love to code, play chess, eat, sleep and then repeat
